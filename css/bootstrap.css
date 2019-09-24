@@ -1097,13 +1097,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #fff;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
-  text-decoration: underline;
+  color: #04811b;
 }
 a:focus {
   outline: thin dotted;
@@ -1346,7 +1345,7 @@ mark,
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #286090;
+  color: #fff;
 }
 .text-success {
   color: #3c763d;
